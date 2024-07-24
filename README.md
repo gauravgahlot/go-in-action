@@ -1,2 +1,3 @@
 # go-in-action
-Learn Go with real examples
+
+Learn Go with real examples.
