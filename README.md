@@ -1,3 +1,3 @@
-# go-in-action
+# go-monkey
 
 Learn Go with real examples.
